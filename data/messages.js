@@ -1,0 +1,18 @@
+export const birthdayWishes = [
+  "Select Message",
+  "Wishing you a day filled with joy, laughter, and lots of love. Happy birthday!",
+  "May this year be the best one yet, full of exciting adventures and wonderful memories. Happy birthday!",
+  "Another year older, wiser, and more fabulous. Happy birthday!",
+  "On your special day, I hope all your dreams and wishes come true. Happy birthday!",
+  "Sending you a big birthday hug and a whole lot of love. Have a fantastic day!",
+  "Here's to celebrating you and all the amazing things you bring to our lives. Happy birthday!",
+  "May your birthday be as bright and beautiful as you are. Enjoy every moment!",
+  "Wishing you good health, happiness, and success in the coming year. Happy birthday!",
+  "It's your day to shine and celebrate the wonderful person you are. Happy birthday!",
+  "To the birthday star, may your day be as incredible as you are. Cheers to you!",
+  "Another year of blessings and opportunities. May this year be your best one yet. Happy birthday!",
+  "May your birthday be the start of a year filled with good luck, good health, and much happiness.",
+  "Celebrating you today and always. May your birthday be as special as you are to us!",
+  "Here's to a day that's all about you! Enjoy the festivities and the love from everyone around you. Happy birthday!",
+  "May your heart be full of happiness, and your life be filled with wonderful moments. Happy birthday!",
+];
